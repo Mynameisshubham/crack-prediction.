@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+results/
+*.joblib
+SDNET2018/
+.DS_Store
